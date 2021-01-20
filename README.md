@@ -1,1 +1,1 @@
-# -WSDM21-Sponsored-Post-Detector-SPoD-
+# [WSDM'21] Sponsored Post Detector (SPoD)
