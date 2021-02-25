@@ -11,7 +11,7 @@ https://sites.google.com/site/sbkimcv/dataset
 - 26,910 brands
 - 1,601,074 Instagram posts
 - Post metadata (JSON files): ~3GB
-- Image (JPEG files): ~31 GB
+- Image (JPEG files): ~33 GB
 
 ## Citation for the Influencer and Brand Dataset
 "Discovering Undisclosed Paid Partnership on Social Media via Aspect-Attentive Sponsored Post Learning," Seungbae Kim, Jyun-Yu Jiang, and Wei Wang.  In Proceedings of Web Search and Data Mining (WSDM '21), ACM, 2021.
